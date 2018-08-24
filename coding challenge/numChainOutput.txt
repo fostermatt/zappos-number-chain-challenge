@@ -1,0 +1,74 @@
+Initial Value: 53453
+Multiplied 53 and 453
+Value: 24009
+Multiplied 24 and 9
+Value: 216
+Swapped bits 2 and 3
+Value: 212
+Multiplied 2 and 12
+Value: 24
+Chain length: 5
+Initial Value: 1
+Swapped bits 0 and 1
+Value: 2
+Swapped bits 1 and 2
+Value: 4
+Swapped bits 2 and 3
+Value: 8
+Swapped bits 3 and 4
+Value: 16
+Swapped bits 4 and 5
+Value: 32
+Swapped bits 5 and 6
+Value: 64
+Swapped bits 6 and 7
+Value: 128
+Swapped bits 7 and 8
+Value: 256
+Swapped bits 8 and 9
+Value: 512
+Swapped bits 9 and 10
+Value: 1024
+Swapped bits 10 and 11
+Value: 2048
+Swapped bits 11 and 12
+Value: 4096
+Multiplied 40 and 96
+Value: 3840
+Swapped bits 11 and 12
+Value: 5888
+Added 5888
+Value: 11776
+Added 11776
+Value: 23552
+Added 23552
+Value: 47104
+Added 47104
+Value: 94208
+Added 94208
+Value: 188416
+Added 188416
+Value: 376832
+Added 376832
+Value: 753664
+Multiplied 753 and 664
+Value: 499992
+Added 499992
+Value: 999984
+Added 4
+Value: 999988
+Added 9
+Value: 999997
+Chain length: 26
+Initial Value: 1337
+Swapped bits 8 and 9
+Value: 1593
+Added 1593
+Value: 3186
+Added 318
+Value: 3504
+Added 3
+Value: 3507
+Swapped bits 11 and 12
+Value: 5555
+Chain length: 6
